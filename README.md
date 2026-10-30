@@ -12,6 +12,22 @@
 About Me:
 I am Md. Saiful Islam, an undergraduate Computer Science and Engineering student at East West University with a strong passion for programming, data science, and system design. Throughout my academic journey, I have built a solid foundation in statistics and core data structures like Singly Linked Lists and Stacks, while also implementing Genetic Algorithms in Python and designing database schemas using Entity-Relationship (ER) diagrams. I actively explore machine learning challenges on Kaggle—working with datasets involving the Titanic competition, molecule SMILES representations, and mass spectra—and have worked on specialized projects like LabEquipVis. Additionally, I enjoy building and deploying web portfolios using GitHub, Netlify, and EmailJS, and I have hands-on experience creating 2D and 3D design reports in AutoCAD. Outside of my technical projects, I love contributing local landmark edits to Google Maps and getting involved in community initiatives, such as coordinating registration for the children's art competition at the Asian Tourism Fair.
 
+
+🎓 Education & Academic Honors
+
+    B.Sc. in Computer Science & Engineering (Data Science)
+    East West University (EWU) — Dhaka, Bangladesh
+    Oct 2023 – Present 
+    Higher Secondary Certificate (HSC) — Science
+    Government Science College, Dhaka | 2019 – 2021 | GPA: 5.00 / 5.00
+
+    Secondary School Certificate (SSC) — Science
+    Govt. Science College Attached High School | 2017 – 2019 | GPA: 5.00 / 5.00
+
+    Honors: 4× Dhaka Metropolitan Police (DMP) Academic Excellence Awards (PSC, JSC, SSC, HSC).
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saiful.islam1103) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiful.islam1103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifulislam1103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiful.tarif03@gmail.com) 
 
@@ -22,14 +38,7 @@ I am Md. Saiful Islam, an undergraduate Computer Science and Engineering student
 ![](https://streak-stats.demolab.com/?user=saifulislam1103&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saifulislam1103&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saifulislam1103&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saifulislam1103&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=saifulislam1103&icon=0&color=0)](https://visitcount.itsvg.in)
